@@ -9,4 +9,4 @@ So what does this data contain ? I do not know that either.
 The Board :
 
 
-<img src="https://github.com/aswinkumar1999/Jetson-Nano_RE/blob/master/images/IMG_20200710_161455.jpg" width="345" height="460" />
+<img src="https://github.com/aswinkumar1999/Jetson-Nano_RE/blob/master/images/IMG_20200710_161456.jpg" width="460" height="345" />
