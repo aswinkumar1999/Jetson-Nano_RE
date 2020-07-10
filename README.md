@@ -32,7 +32,11 @@ sudo flashrom --programmer ch341a_spi -r new.bin
 <img src="https://github.com/aswinkumar1999/Jetson-Nano_RE/blob/master/images/IMG_20200710_160946.jpg" width="345" height="460" />
 <p/>
 
-#### Output 
+#### Output ( Binary file can also be found in the Repo ) 
+
+I have no idea what this is and what this even means.... Would be great if anyone can make sense out of this. 
+
+`strings` basically gives out the readable strings in the binary file. 
 
 ``` bash 
 $ strings new.bin
